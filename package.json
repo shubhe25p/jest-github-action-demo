@@ -1,0 +1,17 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "jest-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "shubh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
