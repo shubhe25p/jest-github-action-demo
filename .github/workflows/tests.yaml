@@ -18,4 +18,5 @@ jobs:
         working-directory: ./
         run: npm test
       - name: Jest Coverage Comment
+        working-directory: ./
         uses: MishaKav/jest-coverage-comment@main
